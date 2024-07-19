@@ -28,7 +28,7 @@ The TQA  dataset is now available on [TQA](http://textbookqa.org ).
 Clone this repo and install with `pip`.
 ```
 git clone https://github.com/chanllon/RaE.-Reason-and-Execute-Prompting
-pip install -e ./pal
+pip install -e ./RaE
 ```
 
 Before running the scripts, set the OpenAI key,
