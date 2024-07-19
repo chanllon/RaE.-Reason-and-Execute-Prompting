@@ -2,7 +2,7 @@
 
 GeoQKG is the pre-training-free representation method that comprehensively extracts the relational information among key elements of a question and stores it in a knowledge structure. This repository provides the code for reproducing GeoQKG method, which is proposed in our paper "**knowledge-structure chimera: towards pre-training-free representation for multimodal geometry question**" 
 
-For the code of the method, please refer to [GeoQKG](https://github.com/ZHJY-DataAnanlysis/GeoQKG).
+For the code of the method, please refer to [GeoQKG](https://github.com/chanllon/RaE.-Reason-and-Execute-Prompting).
 
 The Geometry3K  dataset is now available on [Geometry3K](https://lupantech.github.io/inter-gps/).
 
