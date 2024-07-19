@@ -6,11 +6,9 @@ RaE is a new prompting method specifically designed for enhancing Multi-Modal La
 <img width="879" alt="image" src="https://github.com/chanllon/RaE.-Reason-and-Execute-Prompting/blob/main/ALL.png">
 
 
-This repo provides an interactive implementation of RaE.
+This repo provides an interactive implementation of RaE. For the code of the method, please refer to [RaE](https://github.com/chanllon/RaE.-Reason-and-Execute-Prompting).
 
 ## Benchmarks
-For the code of the method, please refer to [RaE](https://github.com/chanllon/RaE.-Reason-and-Execute-Prompting).
-
 The GEOS  dataset is now available on [GEOS](https://geometry.allenai.org).
 
 The Geometry3K  dataset is now available on [Geometry3K](https://lupantech.github.io/inter-gps/).
