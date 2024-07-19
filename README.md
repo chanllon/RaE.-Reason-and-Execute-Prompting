@@ -14,7 +14,7 @@ The GeoQA+  dataset is now available on [GeoQA+](https://github.com/SCNU203/GeoQ
 
 The PGPS9K  dataset is now available on [PGPS9K](https://github.com/mingliangzhang2018/PGPS).
 
-The AI2D  dataset is now available on [AI2D](http://allenai.org/plato/diagram understanding).
+The AI2D  dataset is now available on [AI2D](http://allenai.org/plato/diagram-understanding).
 
 The TQA  dataset is now available on [TQA](http://textbookqa.org ).
 
