@@ -18,6 +18,18 @@ The AI2D  dataset is now available on [AI2D](http://allenai.org/plato/diagram-un
 
 The TQA  dataset is now available on [TQA](http://textbookqa.org ).
 
+
+```
+## Installation
+Clone this repo and install with `pip`.
+```
+git clone https://github.com/chanllon/RaE.-Reason-and-Execute-Prompting
+pip install -e ./pal
+```
+
+Before running the scripts, set the OpenAI key,
+```export OPENAI_API_KEY='sk-...'```
+
 ## Construct question knowledge graph
 To construct a comprehensive question knowledge graph, please follow the steps below:
 1. Enter the 'GeoQKG' root directory
