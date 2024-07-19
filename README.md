@@ -2,6 +2,13 @@
 
 RaE is a new prompting method specifically designed for enhancing Multi-Modal Large Language Models to solve geometric questions. This repository provides the code for reproducing RaE prompting method, which is proposed in our paper "**Reason-and-Execute Prompting: Enhancing Multi-Modal Large Language Models for Solving Geometry Questions**" 
 
+
+<img width="879" alt="image" src="https://user-images.githubusercontent.com/15002544/202954503-b3fade57-87ff-4beb-81de-72405577b2b4.png">
+
+
+This repo provides an interactive implementation of RaE.
+
+## Benchmarks
 For the code of the method, please refer to [RaE](https://github.com/chanllon/RaE.-Reason-and-Execute-Prompting).
 
 The GEOS  dataset is now available on [GEOS](https://geometry.allenai.org).
@@ -17,6 +24,7 @@ The PGPS9K  dataset is now available on [PGPS9K](https://github.com/mingliangzha
 The AI2D  dataset is now available on [AI2D](http://allenai.org/plato/diagram-understanding).
 
 The TQA  dataset is now available on [TQA](http://textbookqa.org ).
+
 
 ## Installation
 Clone this repo and install with `pip`.
