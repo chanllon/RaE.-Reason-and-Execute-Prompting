@@ -3,7 +3,7 @@
 RaE is a new prompting method specifically designed for enhancing Multi-Modal Large Language Models to solve geometric questions. This repository provides the code for reproducing RaE prompting method, which is proposed in our paper "**Reason-and-Execute Prompting: Enhancing Multi-Modal Large Language Models for Solving Geometry Questions**" 
 
 
-<img width="879" alt="image" src="https://user-images.githubusercontent.com/15002544/202954503-b3fade57-87ff-4beb-81de-72405577b2b4.png">
+<img width="879" alt="image" src="https://github.com/chanllon/RaE.-Reason-and-Execute-Prompting/blob/main/ALL.png">
 
 
 This repo provides an interactive implementation of RaE.
