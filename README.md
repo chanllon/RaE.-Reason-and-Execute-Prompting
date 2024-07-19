@@ -18,8 +18,6 @@ The AI2D  dataset is now available on [AI2D](http://allenai.org/plato/diagram-un
 
 The TQA  dataset is now available on [TQA](http://textbookqa.org ).
 
-
-```
 ## Installation
 Clone this repo and install with `pip`.
 ```
