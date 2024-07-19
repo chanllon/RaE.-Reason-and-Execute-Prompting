@@ -1,6 +1,6 @@
 # RaE. Reason-and-Execute Prompting
 
-GeoQKG is the pre-training-free representation method that comprehensively extracts the relational information among key elements of a question and stores it in a knowledge structure. This repository provides the code for reproducing GeoQKG method, which is proposed in our paper "**knowledge-structure chimera: towards pre-training-free representation for multimodal geometry question**" 
+RaE is a new prompting method specifically designed for enhancing Multi-Modal Large Language Models to solve geometric questions. This repository provides the code for reproducing RaE prompting method, which is proposed in our paper "**Reason-and-Execute Prompting: Enhancing Multi-Modal Large Language Models for Solving Geometry Questions**" 
 
 For the code of the method, please refer to [RaE](https://github.com/chanllon/RaE.-Reason-and-Execute-Prompting).
 
