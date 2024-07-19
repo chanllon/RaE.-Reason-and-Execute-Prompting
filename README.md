@@ -8,9 +8,9 @@ The GEOS  dataset is now available on [GEOS](https://geometry.allenai.org).
 
 The Geometry3K  dataset is now available on [Geometry3K](https://lupantech.github.io/inter-gps/).
 
-The GeoQA dataset is now available on [GeoQA](https://github.com/chenjudge/GeoQA)).
+The GeoQA dataset is now available on [GeoQA](https://github.com/chenjudge/GeoQA).
 
-The GeoQA+  dataset is now available on [GeoQA+](https://github.com/SCNU203/GeoQA-Plus)).
+The GeoQA+  dataset is now available on [GeoQA+](https://github.com/SCNU203/GeoQA-Plus).
 
 The PGPS9K  dataset is now available on [PGPS9K](https://github.com/mingliangzhang2018/PGPS).
 
