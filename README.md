@@ -45,3 +45,13 @@ We provide a simple and convenient method for running code, please follow the st
     ```bash
     python main.py --model GPT4 --dataset GEOS --prompt RaE
     ```
+## Citation
+If you find our work helpful, please kindly cite our research paper:
+
+@inproceedings{duan2024reason,
+  title={Reason-and-execute prompting: Enhancing multi-modal large language models for solving geometry questions},
+  author={Duan, Xiuliang and Tan, Dating and Fang, Liangda and Zhou, Yuyu and He, Chaobo and Chen, Ziliang and Wu, Lusheng and Chen, Guanliang and Gong, Zhiguo and Luo, Weiqi and others},
+  booktitle={Proceedings of the 32nd ACM International Conference on Multimedia},
+  pages={6959--6968},
+  year={2024}
+}
